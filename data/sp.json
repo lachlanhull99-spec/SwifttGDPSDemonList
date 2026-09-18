@@ -5,13 +5,19 @@
     "creators": ["hazbogay"],
     "verifier": "hazbogay",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 75,
+    "percentToQualify": 15,
     "password": "Not Copyable",
     "records": [
         {
             "user": "hazbogay",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
+            "hz": 360
+        }
+        {
+            "user": "Hyswiftt",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 17,
             "hz": 360
         }
     ]
