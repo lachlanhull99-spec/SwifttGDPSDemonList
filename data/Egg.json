@@ -1,0 +1,18 @@
+{
+    "id": 105,
+    "name": "Egg",
+    "author": "SwifttPS",
+    "creators": ["Hyswiftt"],
+    "verifier": "Hyswiftt",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": 90,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Hyswiftt",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
